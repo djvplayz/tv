@@ -14047,7 +14047,7 @@ const _g = "production",
                 },
                 "jackbox-talks": {
                     file: "script.js",
-                    css: ["assets/style-0.css"],
+                    css: ["assets/style-0.css","slideshow-display.css"],
                     base: "main/pp7/jackboxtalks",
                     version: "5.25.0"
                 },
